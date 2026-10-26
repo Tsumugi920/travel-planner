@@ -1,0 +1,16 @@
+{
+  "name": "travel-planner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "旅行计划：Express REST API + 原生前端，支持行程、每日安排、预算汇总与打包清单",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
